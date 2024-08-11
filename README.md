@@ -14,5 +14,7 @@ This project focused on developing an advanced retail analytics dashboard using 
 **Dashboard Examples**
 
 ![image alt](https://github.com/Khadiga-Hisham/Retail-Analytics-Dashboard-using-PowerBI/blob/main/Revenue%20Analysis.png?raw=true)
+
 ![image alt](https://github.com/Khadiga-Hisham/Retail-Analytics-Dashboard-using-PowerBI/blob/main/Root-Cause.png?raw=true)
+
 ![image alt](https://github.com/Khadiga-Hisham/Retail-Analytics-Dashboard-using-PowerBI/blob/main/Customer%20Analysis.png?raw=true)
