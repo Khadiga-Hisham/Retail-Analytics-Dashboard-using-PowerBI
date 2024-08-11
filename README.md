@@ -2,7 +2,8 @@
 
 **Project Overview**
 
-This project focused on developing an advanced retail analytics dashboard using Power BI to optimize business performance. Key achievements include:
+This project focused on developing an advanced retail analytics dashboard using Power BI to optimize business performance. 
+**Key achievements include:**
 
 * Increased profit by 23.35% and customer base by 28% in one region.
 * Achieved a 57.01% increase in profit and an 18.66% increase in customers in another region.
